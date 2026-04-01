@@ -3,7 +3,7 @@ Backend repo: https://github.com/Doublefffccccfff/repair-shop-api
 API Health Check:https://repair-shop-api-zqsl.onrender.com/
 
 
-# Dan D's Tech Notes (MERN Stack)
+# Dan D's Repair shop (MERN Stack)
 A full-stack task management system designed for a computer repair shop. This application streamlines the workflow for managing service tickets, employee assignments, and user permissions.
 
 ## Tech Stack
